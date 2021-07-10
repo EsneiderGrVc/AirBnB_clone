@@ -5,3 +5,4 @@ test_base_model
 test_save_reload_base_model
 test_save_reload_user
 W3C-Validator
+.DS_Store

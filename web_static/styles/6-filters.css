@@ -48,7 +48,7 @@ button:hover {
     padding: 30px 0 40px 0;
 }
 .popover h2 {
-    margin-left: 20px;
+    margin-left: -20px;
 }
 .popover h2:first-child {
     margin-top: 0;
