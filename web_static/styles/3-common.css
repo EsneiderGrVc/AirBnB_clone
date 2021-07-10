@@ -1,0 +1,17 @@
+:root {
+    /* COLORS */
+    --font-color: #484848;
+
+    /* SIZE */
+    --paragraph-size: 14px;
+
+    /* FONT - FAMILY */
+    --paragraph-font: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+body {
+    margin: 0%;
+    padding: 0%;
+    color: var(--font-color);
+    font-size: var(--paragraph-size);
+    font-family: var(--paragraph-font);
+}

@@ -4,3 +4,4 @@ test_base_model_dict
 test_base_model
 test_save_reload_base_model
 test_save_reload_user
+W3C-Validator
