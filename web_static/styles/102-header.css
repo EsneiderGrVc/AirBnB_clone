@@ -1,0 +1,30 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+}
+
+.logo  {
+    background-image: url(../images/logo.png);
+    width: 118.3px;
+    height: 50px;
+    margin-left: 20px;
+    background-size: cover;
+}
+.menu {
+    margin-right: 20px;
+}
+.menu span {
+    display: block;
+    width: 26px;
+    height: 2px;
+    background-color: #999999;
+
+}
+.menu span:not(:last-child) {
+    margin-bottom: 5px;
+}
